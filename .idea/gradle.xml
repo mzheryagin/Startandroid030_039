@@ -9,6 +9,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/P0301_ActivityResult" />
+            <option value="$PROJECT_DIR$/P0311_SimpleIntents" />
+            <option value="$PROJECT_DIR$/P0321_SimpleBrowser" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
