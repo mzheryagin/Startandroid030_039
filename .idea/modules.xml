@@ -7,6 +7,8 @@
       <module fileurl="file://D:\Development\Android\Startandroid030_039\P0311_SimpleIntents\P0311_SimpleIntents.iml" filepath="D:\Development\Android\Startandroid030_039\P0311_SimpleIntents\P0311_SimpleIntents.iml" />
       <module fileurl="file://$PROJECT_DIR$/P0321_SimpleBrowser/P0321_SimpleBrowser.iml" filepath="$PROJECT_DIR$/P0321_SimpleBrowser/P0321_SimpleBrowser.iml" />
       <module fileurl="file://D:\Development\Android\Startandroid030_039\P0321_SimpleBrowser\P0321_SimpleBrowser.iml" filepath="D:\Development\Android\Startandroid030_039\P0321_SimpleBrowser\P0321_SimpleBrowser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0331_SharedPreferences/P0331_SharedPreferences.iml" filepath="$PROJECT_DIR$/P0331_SharedPreferences/P0331_SharedPreferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0341_SimpleSQLite/P0341_SimpleSQLite.iml" filepath="$PROJECT_DIR$/P0341_SimpleSQLite/P0341_SimpleSQLite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Startandroid030_039.iml" filepath="$PROJECT_DIR$/Startandroid030_039.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
