@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/P0321_SimpleBrowser" />
             <option value="$PROJECT_DIR$/P0331_SharedPreferences" />
             <option value="$PROJECT_DIR$/P0341_SimpleSQLite" />
+            <option value="$PROJECT_DIR$/P0361_SQLiteQuery" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
