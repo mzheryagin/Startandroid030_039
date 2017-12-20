@@ -15,6 +15,8 @@
             <option value="$PROJECT_DIR$/P0341_SimpleSQLite" />
             <option value="$PROJECT_DIR$/P0342_SimpleSQLiteMy" />
             <option value="$PROJECT_DIR$/P0361_SQLiteQuery" />
+            <option value="$PROJECT_DIR$/P0371_SQLiteInnerJoin" />
+            <option value="$PROJECT_DIR$/P0381_SQLiteTransaction" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>

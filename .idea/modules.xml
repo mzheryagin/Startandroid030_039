@@ -11,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/P0341_SimpleSQLite/P0341_SimpleSQLite.iml" filepath="$PROJECT_DIR$/P0341_SimpleSQLite/P0341_SimpleSQLite.iml" />
       <module fileurl="file://$PROJECT_DIR$/P0342_SimpleSQLiteMy/P0342_SimpleSQLiteMy.iml" filepath="$PROJECT_DIR$/P0342_SimpleSQLiteMy/P0342_SimpleSQLiteMy.iml" />
       <module fileurl="file://$PROJECT_DIR$/P0361_SQLiteQuery/P0361_SQLiteQuery.iml" filepath="$PROJECT_DIR$/P0361_SQLiteQuery/P0361_SQLiteQuery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0371_SQLiteInnerJoin/P0371_SQLiteInnerJoin.iml" filepath="$PROJECT_DIR$/P0371_SQLiteInnerJoin/P0371_SQLiteInnerJoin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0381_SQLiteTransaction/P0381_SQLiteTransaction.iml" filepath="$PROJECT_DIR$/P0381_SQLiteTransaction/P0381_SQLiteTransaction.iml" />
       <module fileurl="file://$PROJECT_DIR$/Startandroid030_039.iml" filepath="$PROJECT_DIR$/Startandroid030_039.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
