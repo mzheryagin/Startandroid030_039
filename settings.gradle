@@ -1,1 +1,1 @@
-include ':app', ':P0301_ActivityResult', ':P0311_SimpleIntents', ':P0321_SimpleBrowser', ':P0331_SharedPreferences', ':P0341_SimpleSQLite', ':P0361_SQLiteQuery', ':P0342_SimpleSQLiteMy', ':P0371_SQLiteInnerJoin', ':P0381_SQLiteTransaction'
+include ':app', ':P0301_ActivityResult', ':P0311_SimpleIntents', ':P0321_SimpleBrowser', ':P0331_SharedPreferences', ':P0341_SimpleSQLite', ':P0361_SQLiteQuery', ':P0342_SimpleSQLiteMy', ':P0371_SQLiteInnerJoin', ':P0381_SQLiteTransaction', ':P0391_SQLiteOnUpgradeDB'
